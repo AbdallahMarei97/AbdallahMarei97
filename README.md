@@ -26,16 +26,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/AbdallahMarei">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdallahMarei&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Abdallah Github Status logo" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdallahMarei&layout=compact&langs_count=8&theme=algolia" />
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
